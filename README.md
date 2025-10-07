@@ -17,16 +17,6 @@
 
 ---
 
-## 📸 Demo / Screenshots
-
-*(Replace these with your own images/screenshots)*
-
-| Desktop View | Mobile View |
-|--------------|--------------|
-| ![Desktop screenshot](C:\Users\DELL\Pictures\Screenshots.png) | ![Mobile screenshot](./path/to/your-mobile-screenshot.png) |
-
----
-
 ## 🛠️ Tech Stack
 
 | Technology | Purpose |
