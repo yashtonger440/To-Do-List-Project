@@ -1,4 +1,3 @@
-# To-Do-List-Project
 # 📝 To-Do List Project
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)  
@@ -24,7 +23,7 @@
 
 | Desktop View | Mobile View |
 |--------------|--------------|
-| ![Desktop screenshot](./path/to/your-desktop-screenshot.png) | ![Mobile screenshot](./path/to/your-mobile-screenshot.png) |
+| ![Desktop screenshot](C:\Users\DELL\Pictures\Screenshots.png) | ![Mobile screenshot](./path/to/your-mobile-screenshot.png) |
 
 ---
 
