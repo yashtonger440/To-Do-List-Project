@@ -1,4 +1,4 @@
-# 📝 To-Do List Project
+# 📝 To-Do List
 
 > A sleek, responsive to-do list app built with HTML, CSS & JavaScript to help you manage tasks easily.
 
