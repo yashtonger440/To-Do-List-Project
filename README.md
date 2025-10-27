@@ -1,8 +1,5 @@
 # 📝 To-Do List Project
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)  
-[![GitHub stars](https://img.shields.io/github/stars/yashcreator/To-Do-List-Project?style=social)](https://github.com/yashcreator/To-Do-List-Project/stargazers)
-
 > A sleek, responsive to-do list app built with HTML, CSS & JavaScript to help you manage tasks easily.
 
 ---
@@ -34,5 +31,5 @@ Follow these steps:
 
 1. **Clone** this repo  
    ```bash
-   git clone https://github.com/yashcreator/To-Do-List-Project.git
+   git clone https://github.com/yashtonger440/To-Do-List-Project.git
 
